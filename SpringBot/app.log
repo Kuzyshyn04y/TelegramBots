@@ -1,0 +1,12 @@
+2024-04-07 14:46:08,251 INFO o.s.t.c.s.AnnotationConfigContextLoaderUtils [main] Could not detect default configuration classes for test class [io.project.springbot.SpringBotApplicationTests]: SpringBotApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2024-04-07 14:46:08,338 INFO o.s.b.t.c.SpringBootTestContextBootstrapper [main] Found @SpringBootConfiguration io.project.springbot.SpringBotApplication for test class io.project.springbot.SpringBotApplicationTests
+2024-04-07 14:46:08,623 INFO i.p.s.SpringBotApplicationTests [main] Starting SpringBotApplicationTests using Java 17.0.10 with PID 9580 (started by kuzys in D:\Programs\ProjectsForJava\MyOwnProjects\SpringBot)
+2024-04-07 14:46:08,624 DEBUG i.p.s.SpringBotApplicationTests [main] Running with Spring Boot v3.2.3, Spring v6.1.4
+2024-04-07 14:46:08,624 INFO i.p.s.SpringBotApplicationTests [main] No active profile set, falling back to 1 default profile: "default"
+2024-04-07 14:46:09,671 INFO i.p.s.SpringBotApplicationTests [main] Started SpringBotApplicationTests in 1.214 seconds (process running for 2.084)
+2024-04-07 14:51:24,641 INFO o.s.t.c.s.AnnotationConfigContextLoaderUtils [main] Could not detect default configuration classes for test class [io.project.springbot.SpringBotApplicationTests]: SpringBotApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2024-04-07 14:51:24,721 INFO o.s.b.t.c.SpringBootTestContextBootstrapper [main] Found @SpringBootConfiguration io.project.springbot.SpringBotApplication for test class io.project.springbot.SpringBotApplicationTests
+2024-04-07 14:51:24,979 INFO i.p.s.SpringBotApplicationTests [main] Starting SpringBotApplicationTests using Java 17.0.10 with PID 17384 (started by kuzys in D:\Programs\ProjectsForJava\MyOwnProjects\SpringBot)
+2024-04-07 14:51:24,980 DEBUG i.p.s.SpringBotApplicationTests [main] Running with Spring Boot v3.2.3, Spring v6.1.4
+2024-04-07 14:51:24,980 INFO i.p.s.SpringBotApplicationTests [main] No active profile set, falling back to 1 default profile: "default"
+2024-04-07 14:51:25,951 INFO i.p.s.SpringBotApplicationTests [main] Started SpringBotApplicationTests in 1.126 seconds (process running for 1.943)
