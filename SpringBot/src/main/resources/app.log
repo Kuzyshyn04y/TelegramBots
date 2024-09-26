@@ -1,8 +1,0 @@
-2024-04-06 17:00:08,245 INFO i.p.s.SpringBotApplication [main] Starting SpringBotApplication using Java 17.0.10 with PID 3148 (D:\Programs\ProjectsForJava\MyOwnProjects\SpringBot\target\classes started by kuzys in D:\Programs\ProjectsForJava\MyOwnProjects\SpringBot)
-2024-04-06 17:00:08,246 DEBUG i.p.s.SpringBotApplication [main] Running with Spring Boot v3.2.3, Spring v6.1.4
-2024-04-06 17:00:08,246 INFO i.p.s.SpringBotApplication [main] No active profile set, falling back to 1 default profile: "default"
-2024-04-06 17:00:09,071 INFO i.p.s.SpringBotApplication [main] Started SpringBotApplication in 1.044 seconds (process running for 1.527)
-2024-04-06 17:00:32,905 INFO i.p.s.SpringBotApplication [main] Starting SpringBotApplication using Java 17.0.10 with PID 12056 (D:\Programs\ProjectsForJava\MyOwnProjects\SpringBot\target\classes started by kuzys in D:\Programs\ProjectsForJava\MyOwnProjects\SpringBot)
-2024-04-06 17:00:32,908 DEBUG i.p.s.SpringBotApplication [main] Running with Spring Boot v3.2.3, Spring v6.1.4
-2024-04-06 17:00:32,908 INFO i.p.s.SpringBotApplication [main] No active profile set, falling back to 1 default profile: "default"
-2024-04-06 17:00:33,724 INFO i.p.s.SpringBotApplication [main] Started SpringBotApplication in 1.024 seconds (process running for 1.494)
